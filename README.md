@@ -1,6 +1,6 @@
 <!-- Header escuro com seu nome -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:222222&height=150&section=header&text=👋%20Olá,%20eu%20sou%20o%20Mota!&fontColor=ffffff&fontSize=40&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:222222&height=150&section=header&text=%20Olá,%20eu%20sou%20o%20Mota!&fontColor=ffffff&fontSize=40&fontAlignY=35" />
 </p>
 
 <p align="center">
