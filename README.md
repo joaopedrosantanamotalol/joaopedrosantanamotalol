@@ -55,7 +55,7 @@ Sou desenvolvedor, tenho experiência com várias linguagens e frameworks, e est
 
 ## 📫 Como me encontrar
 
-- 👤 [João Mota](www.linkedin.com/in/joão-mota-a59b6035b)
+- 👤 [João Mota]<link src="www.linkedin.com/in/joão-mota-a59b6035b"/>
 
 ---
 
