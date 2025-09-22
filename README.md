@@ -19,7 +19,6 @@ Aqui estão algumas das tecnologias que eu uso com mais frequência:
 ## 📫 Como me encontrar
 
 - [joão Mota](#)
-- 
 ---
 
 ### 🎨 Tecnologias que eu uso:
