@@ -1,9 +1,14 @@
+<!-- Header escuro com seu nome -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=150&section=header&text=👋%20Olá,%20eu%20sou%20o%20Mota!&fontColor=ffffff&fontSize=40&fontAlignY=35" alt="capa escura com nome" style="width:100%;"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:222222&height=150&section=header&text=👋%20Olá,%20eu%20sou%20o%20Mota!&fontColor=ffffff&fontSize=40&fontAlignY=35" />
 </p>
 
 <p align="center">
-Sou desenvolvedor, tenho experiência com várias linguagens e frameworks, e estou sempre aprendendo mais.
+  <img src="https://img.shields.io/badge/Desenvolvedor-Backend-000000?style=flat-square&logo=code&logoColor=white" />
+</p>
+
+<p align="center">
+  <i>Sou desenvolvedor, tenho experiência com várias linguagens e frameworks, e estou sempre aprendendo mais.</i>
 </p>
 
 ---
@@ -57,10 +62,15 @@ Sou desenvolvedor, tenho experiência com várias linguagens e frameworks, e est
 
 ## 📫 Como me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-mota-a59b6035b/)
+<p align="left">
+  <a href="https://www.linkedin.com/in/joão-mota-a59b6035b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
 
 ---
 
+<!-- Rodapé com efeito escuro -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=120&section=footer"/ style="width:100%;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:222222&height=120&section=footer"/>
 </p>
