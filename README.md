@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=150&section=header&text=👋%20Olá,%20eu%20sou%20o%20Mota!&fontColor=ffffff&fontSize=40&fontAlignY=35" alt="capa escura com nome" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=150&section=header&text=👋%20Olá,%20eu%20sou%20o%20Mota!&fontColor=ffffff&fontSize=40&fontAlignY=35" alt="capa escura com nome" style="width:100%;"/>
 </p>
 
 <p align="center">
@@ -62,5 +62,5 @@ Sou desenvolvedor, tenho experiência com várias linguagens e frameworks, e est
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=120&section=footer"/ style="width:100%;">
 </p>
