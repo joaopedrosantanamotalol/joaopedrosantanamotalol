@@ -17,16 +17,6 @@
 
 ### 🌟 Linguagens e Frameworks que utilizo:
 
-- 🐍 **Python**
-- 🌐 **HTML**
-- 🎨 **CSS**
-- ☕ **Java**
-- 💻 **CTk** (CustomTkinter)
-
----
-
-## 🎨 Tecnologias que eu uso:
-
 <table>
   <thead>
     <tr>
@@ -36,27 +26,49 @@
   </thead>
   <tbody>
     <tr>
-      <td>Python</td>
+      <td>🐍 Python</td>
       <td><img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"></td>
     </tr>
     <tr>
-      <td>HTML</td>
+      <td>🌐 HTML</td>
       <td><img src="https://img.shields.io/badge/HTML-111111?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge"></td>
     </tr>
     <tr>
-      <td>CSS</td>
+      <td>🎨 CSS</td>
       <td><img src="https://img.shields.io/badge/CSS-1A1A1A?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge"></td>
     </tr>
     <tr>
-      <td>Java</td>
+      <td>☕ Java</td>
       <td><img src="https://img.shields.io/badge/Java-2B2B2B?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"></td>
     </tr>
     <tr>
-      <td>CTk (CustomTkinter)</td>
+      <td>💻 CTk (CustomTkinter)</td>
       <td><img src="https://img.shields.io/badge/CTk-333333?style=for-the-badge&logo=python&logoColor=white" alt="CTk Badge"></td>
+    </tr>
+    <tr>
+      <td>⚛️ React Native</td>
+      <td><img src="https://img.shields.io/badge/React%20Native-444444?style=for-the-badge&logo=react&logoColor=white" alt="React Native Badge"></td>
     </tr>
   </tbody>
 </table>
+
+---
+
+## 🚀 Projetos em Destaque
+
+| 💡 Projeto | 🧩 Descrição | 🔗 Link |
+|-------------|--------------|---------|
+| 🧠 **M.E.R.LIN** | Software assistivo com controle facial para acessibilidade motora, usando Python, OpenCV e CustomTkinter. | [🔗 Ver Projeto](https://github.com/JoaoMota/...) |
+| 📱 **MeuApp React Native** | Aplicativo móvel feito com React Native e Expo, para meu professor marlon. | [🔗 Ver Projeto](https://github.com/JoaoMota/Marlon) |
+| 💐 **Minha perfumaria** | website para meu trabalho de Banco de dados com desenvolvimento web | [🔗 Ver Projeto](https://github.com/JoaoMota/Marlon) |
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoaoMota&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=cccccc" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMota&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=cccccc" height="180em" />
+</p>
 
 ---
 
