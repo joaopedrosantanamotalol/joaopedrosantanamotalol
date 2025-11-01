@@ -66,10 +66,12 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaopedrosantanamotalol&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=cccccc" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedrosantanamotalol&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=cccccc" height="180em" />
-</p>
+  <!-- Estatísticas gerais (commits, stars, etc) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=joaopedrosantanamotalol&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=cccccc&count_private=true&include_all_commits=true&v=2" height="180em" />
 
+  <!-- Linguagens mais usadas -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedrosantanamotalol&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=cccccc&count_private=true&langs_count=8&v=2" height="180em" />
+</p>
 ---
 
 ## 📫 Como me encontrar
