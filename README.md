@@ -66,8 +66,8 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaoMota&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=cccccc" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMota&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=cccccc" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joaopedrosantanamotalol&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=cccccc" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedrosantanamotalol&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=cccccc" height="180em" />
 </p>
 
 ---
