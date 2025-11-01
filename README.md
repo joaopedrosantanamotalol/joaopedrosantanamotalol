@@ -58,9 +58,9 @@
 
 | 💡 Projeto | 🧩 Descrição | 🔗 Link |
 |-------------|--------------|---------|
-| 🧠 **M.E.R.LIN** | Software assistivo com controle facial para acessibilidade motora, usando Python, OpenCV e CustomTkinter. | [🔗 Ver Projeto](https://github.com/JoaoMota/...) |
-| 📱 **MeuApp React Native** | Aplicativo móvel feito com React Native e Expo, para meu professor marlon. | [🔗 Ver Projeto](https://github.com/JoaoMota/Marlon) |
-| 💐 **Minha perfumaria** | website para meu trabalho de Banco de dados com desenvolvimento web | [🔗 Ver Projeto](https://github.com/JoaoMota/Marlon) |
+| 🧠 **M.E.R.LIN** | Software assistivo com controle facial para acessibilidade motora, usando Python, OpenCV e CustomTkinter. | [🔗 Ver Projeto](https://github.com/joaopedrosantanamotalol/...) |
+| 📱 **MeuApp React Native** | Aplicativo móvel feito com React Native e Expo, para meu professor marlon. | [🔗 Ver Projeto](https://github.com/joaopedrosantanamotalol/MArlon) |
+| 💐 **Minha perfumaria** | website para meu trabalho de Banco de dados com desenvolvimento web | [🔗 Ver Projeto](https://github.com/joaopedrosantanamotalol/Perfumaria) |
 ---
 
 ## 📊 Estatísticas do GitHub
