@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&section=header&text=Olá,+eu+sou+o+Mota!&fontColor=FFFFFF&fontSize=40&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&section=header&text=Olá!&fontColor=FFFFFF&fontSize=40&fontAlignY=35" />
 </p>
 
 <p align="center">
