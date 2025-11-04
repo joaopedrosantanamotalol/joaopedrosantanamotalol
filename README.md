@@ -1,6 +1,6 @@
 <!-- Header clean -->
 <h1 align="center"> Olá, eu sou o Mota</h1>
-<p align="center"><strong>Backend Developer • Python | Node | React Native</strong></p>
+<p align="center"><strong>Full Stack Developer • Python | Node | React Native | Java | Firebase | MYSQl </strong></p>
 
 ---
 
