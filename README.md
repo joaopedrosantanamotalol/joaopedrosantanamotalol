@@ -24,7 +24,7 @@
 |--------|-----------|------|
 | **M.E.R.LIN** 🧠 | Assistivo com controle facial (Python + OpenCV + CTk) | [GitHub](https://github.com/joaopedrosantanamotalol/...) |
 | **MeuApp RN** 📱 | App mobile em React Native + Expo | [GitHub](https://github.com/joaopedrosantanamotalol/MArlon) |
-| **Perfumaria** 💐 | Website BD + Web | [GitHub](https://github.com/joaopedrosantanamotalol/Perfumaria) |
+| **Perfumaria** 💐 | Laravel BD + Web | [GitHub](https://github.com/joaopedrosantanamotalol/Perfumaria) |
 
 ---
 
