@@ -1,6 +1,6 @@
-<!-- Header clean -->
-<h1 align="center">Olá, eu sou o Mota</h1>
-<p align="center"><strong>Full Stack Developer • Python | Node | React Native | Java | Firebase | MySQL </strong></p>
+
+<h1 align="center"> Olá, eu sou o Mota</h1>
+<p align="center"><strong>Full Stack Developer • Python | Node | React Native | Java | Firebase | MYSQl </strong></p>
 
 ---
 
@@ -28,14 +28,10 @@
 
 ---
 
-## 📊 Stats (Last 12 months)
+## 📊 Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=joaopedrosantanamotalol&theme=dark&hide_border=true&background=000000" height="170em" />
-</p>
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=joaopedrosantanamotalol&show_icons=true&theme=dark&hide_border=true&bg_color=000000&include_all_commits=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=joaopedrosantanamotalol&show_icons=true&theme=dark&hide_border=true&bg_color=000000" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedrosantanamotalol&layout=compact&theme=dark&hide_border=true&bg_color=000000" />
 </p>
 
