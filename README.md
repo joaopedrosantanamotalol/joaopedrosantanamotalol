@@ -24,7 +24,7 @@
 | Projeto | Descrição | Link |
 |--------|-----------|------|
 | **M.E.R.LIN** 🧠 | Assistivo com controle facial (Python + OpenCV + CTk) | [GitHub](https://github.com/joaopedrosantanamotalol/...) |
-| **MeuApp RN** 📱 | App mobile em React Native + Expo | [GitHub](https://github.com/joaopedrosantanamotalol/MArlon) |
+| **Aprendizado Golang** 📱 | Meus aprendizados na linguagem GO | [GitHub](https://github.com/joaopedrosantanamotalol/Aprendendo_golang) |
 | **Perfumaria** 💐 | Laravel BD + Web | [GitHub](https://github.com/joaopedrosantanamotalol/Perfumaria) |
 
 ---
