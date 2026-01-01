@@ -1,6 +1,6 @@
 
 <h1 align="center"> Olá, eu sou o Mota</h1>
-<p align="center"><strong>Full Stack Developer • Python | Node | React Native | Java | Firebase | MYSQl </strong></p>
+<p align="center"><strong>Full Stack Developer • Python | Node | React Native | Java | Firebase | MYSQl | Flutter </strong></p>
 
 ---
 
@@ -28,13 +28,11 @@
 | **Perfumaria** 💐 | Laravel BD + Web | [GitHub](https://github.com/joaopedrosantanamotalol/Perfumaria) |
 
 ---
+### Sobre mim
 
-## 📊 Stats
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=joaopedrosantanamotalol&show_icons=true&theme=dark&hide_border=true&bg_color=000000" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedrosantanamotalol&layout=compact&theme=dark&hide_border=true&bg_color=000000" />
-</p>
+<p align="left"><strong>desenvolvedor desktop, mobile e web</strong></p>
+<p align="left"><strong>Disposto a aprender</strong></p>
+<p align="left"><strong>procurando Emprego</strong></p>
 
 ---
 
