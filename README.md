@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/CustomTkinter-000000?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ---
