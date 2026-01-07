@@ -24,7 +24,7 @@
 | Projeto | Descrição | Link |
 |--------|-----------|------|
 | **M.E.R.LIN** 🧠 | Assistivo com controle facial (Python + OpenCV + CTk) | [GitHub](https://github.com/joaopedrosantanamotalol/...) |
-| **Aprendizado Golang** 📱 | Meus aprendizados na linguagem GO | [GitHub](https://github.com/joaopedrosantanamotalol/Aprendendo_golang) |
+| **Aprendizado Pythob** 🐍 | Meus aprendizados na linguagem Python | [GitHub](https://github.com/joaopedrosantanamotalol/PythonAprendizados) |
 | **App Marlon** 📘 | TYPESCRIPT + FIREBASE | [GitHub](https://github.com/joaopedrosantanamotalol/MArlon) |
 
 ---
