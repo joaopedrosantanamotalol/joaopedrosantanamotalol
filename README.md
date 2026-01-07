@@ -25,7 +25,7 @@
 |--------|-----------|------|
 | **M.E.R.LIN** 🧠 | Assistivo com controle facial (Python + OpenCV + CTk) | [GitHub](https://github.com/joaopedrosantanamotalol/...) |
 | **Aprendizado Golang** 📱 | Meus aprendizados na linguagem GO | [GitHub](https://github.com/joaopedrosantanamotalol/Aprendendo_golang) |
-| **Perfumaria** 💐 | Laravel BD + Web | [GitHub](https://github.com/joaopedrosantanamotalol/Perfumaria) |
+| **App Marlon** 📘 | TYPESCRIPT + FIREBASE | [GitHub](https://github.com/joaopedrosantanamotalol/MArlon) |
 
 ---
 ### Sobre mim
