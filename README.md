@@ -26,6 +26,7 @@
 | **M.E.R.LIN** 🧠 | Assistivo com controle facial (Python + OpenCV + CTk) | [GitHub](https://github.com/joaopedrosantanamotalol/...) |
 | **Aprendizado Pythob** 🐍 | Meus aprendizados na linguagem Python | [GitHub](https://github.com/joaopedrosantanamotalol/PythonAprendizados) |
 | **App Marlon** 📘 | TYPESCRIPT + FIREBASE | [GitHub](https://github.com/joaopedrosantanamotalol/MArlon) |
+| **Projeto FASTAPI** 🤓 | PYTHON + FASTAPI + JINJA2 + HTML & CSS | [GitHub](https://github.com/joaopedrosantanamotalol/FAST-API-FIRST-PEDIDOS/tree/main) |
 
 ---
 ### Sobre mim
