@@ -29,6 +29,7 @@
 | **Projeto FASTAPI** 🤓 | PYTHON + FASTAPI + JINJA2 + HTML & CSS | [GitHub](https://github.com/joaopedrosantanamotalol/FAST-API-FIRST-PEDIDOS/tree/main) |
 | **App Gerenciador de Arquivos** ☕ | Java + Io + JFileChooser | [GitHub](https://github.com/joaopedrosantanamotalol/Gerenciador-de-arquivos-java) |
 | **Prompt de comando em Java** ☕ | Java + JFrame + Io | [GitHub](https://github.com/joaopedrosantanamotalol/FAKEOS-JAVA) |
+| **Todo List em Java Spring** ☕ | Java + Spring + Js + Web | [GitHub](https://github.com/joaopedrosantanamotalol/TODO-LIST-SPRING-JS) |
 ---
 ### Sobre mim
 <p align="left"><strong>desenvolvedor desktop, mobile e web</strong></p>
