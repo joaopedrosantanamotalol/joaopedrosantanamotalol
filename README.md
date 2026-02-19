@@ -31,7 +31,7 @@
 | **Prompt de comando em Java** ☕ | Java + JFrame + Io | [GitHub](https://github.com/joaopedrosantanamotalol/FAKEOS-JAVA) |
 | **Todo List em Java Spring** ☕ | Java + Spring + Js + Web | [GitHub](https://github.com/joaopedrosantanamotalol/TODO-LIST-SPRING-JS) |
 | **Criador de Tarefas em Java Spring** ☕ | Java + Spring + JWT + Web + Auth | [GitHub](https://github.com/joaopedrosantanamotalol/SPRING-SECURITY-JWT/tree/main) |
-
+| **Crud Simples com Spring e Peixes** ☕ | Java + Spring + Thymeleaf + Web + RestLike | [GitHub](https://github.com/joaopedrosantanamotalol/SPRING-CRUD-PEIXES-RESTLIKE) |
 ---
 ### Sobre mim
 <p align="left"><strong>desenvolvedor desktop, mobile e web</strong></p>
